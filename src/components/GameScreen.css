@@ -1,0 +1,4 @@
+.disabled-cursor {
+  pointer-events: none;
+  cursor: not-allowed;
+}
